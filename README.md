@@ -33,9 +33,13 @@ le meilleur score sur West World Tycoon
 save_weight(score, weights)
 ```
 
+### Fonctionnement
+
+* Voir GenAlgo.ipynb
+
 ### Performance
 
-* Maximum atteind : 30 078 527 (plusieurs heures d'entrainement)
+* Maximum atteint : 30 078 527 (plusieurs heures d'entrainement)
 
 ## Pour aller plus loin
 
