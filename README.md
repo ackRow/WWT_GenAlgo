@@ -27,7 +27,7 @@ le meilleur score sur West World Tycoon
 
 ### Utilisation
 
-* Ouvrer GenAlgo.ipynb avec Jupyter Notebook
+* Ouvrez GenAlgo.ipynb avec Jupyter Notebook
 * A la fin du training vous pouvez sauvegarder le meilleur réseau de neurones au format .ia avec
 ```python
 save_weight(score, weights)
