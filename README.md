@@ -1,8 +1,8 @@
 # WWT_GenAlgo
 
 ```
-WWT_GenAlg est un algorithme génétique qui entraine (et sélectionne) le réseau de neurones faisant 
-le meilleur score sur West World Tycoon
+WWT_GenAlg est un algorithme génétique qui entraine (et sélectionne) des réseaus de neurones pour faire 
+le meilleur score possible sur West World Tycoon
 ```
 
 ![image](meme.jpg)
